@@ -53,9 +53,9 @@ The application uses a combination of:
 
 - Yousef Alfares
 
-## 🙏 Acknowledgments
+## 📧 Contact
 
-- Create React App team
-- React Bootstrap contributors
-- Framer Motion team
-- All the contributors who have helped with code and suggestions
+For any queries or suggestions, please reach out to:
+
+- Email: yousefalfareess@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yousef-alfares/)
